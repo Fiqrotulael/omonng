@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    font-family: 'Bonheur Royale', cursive;
+}
+
+
+.name {
+    background-color: blue;
+     /* max-width: 50%;
+    width: 75%;
+    max-height: 200px;
+    height: 300px;
+     min-width: 75%;
+    width: 50%;
+    min-height: 300px;
+    height: 200px;
+     Typography  */
+    font-size: 300px;
+    font-weight: 1000;
+    line height: 100px;
+
+}
+
+.gambar> .gambar11 {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.pengalaman{
+    color: blue;
+}
+
+.Skill{ 
+    color: blue;
+}
+
+.HALLO{
+    color: blue;
+}
+.gambar{
+    text-align: center;
+}
+
